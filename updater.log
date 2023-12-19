@@ -1,0 +1,53 @@
+Server version: 5.1.49-1ubuntu8.1
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `[]' for nil:NilClass
+./Product.rb:45:in `initialize'./MercadoLibre.rb:121:in `new'./MercadoLibre.rb:121:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
+undefined method `lstrip' for nil:NilClass
+./MercadoLibre.rb:80:in `get_product_from_page'./MercadoLibre.rb:119:in `update_product'./MercadoLibre.rb:58:in `update_all_products'./MercadoLibre.rb:55:in `each_hash'./MercadoLibre.rb:55:in `update_all_products'updater.rb:9
